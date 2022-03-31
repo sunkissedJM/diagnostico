@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;700&display=swap');
+@@import url('https://fonts.googleapis.com/css2?family=Marck+Script&display=swap');
+html, body {
+  margin: 5;
+  padding: 5;
+  font-family: 'Marck Script', cursive;
+  font-size: 90%;
+  line-height: 1;
+}
+canvas {
+  display: block;
+}
+
+div{
+  padding:0px 25px 0 25px;
+}
+
+div#uno{
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: 25px;
+  font-weight: 50;
+  color: rgb(240,39,33);
+}
+
+div#otro{
+  position: absolute;
+  top: 0;
+  right: 0;
+  font-size: 25px;
+  font-weight: 50;
+  color: rgb(240,39,33);
+}
+p{
+  color:(240,255,255)
+}
+a{
+  text-decoration: none;
+  color: #f0f8ff;
+  font-style: oblique;
+  font-family: 'Marck Script', cursive;
+}
+
+a:hover{
+  text-decoration: undeline;
+  color: #333333;
+}
+
+strong{
+  color: #424242;
+}
